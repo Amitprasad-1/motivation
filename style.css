@@ -1,0 +1,17 @@
+html{
+    background-color:black;
+    color: white;
+}
+img{
+    border: 5px dotted rgb(51, 255, 5);
+    width: 100%;
+}
+h1{
+    font-family: "Pacifico", cursive;
+}
+div{
+    margin-top: 20px;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
